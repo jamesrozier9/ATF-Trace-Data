@@ -2,7 +2,7 @@
 # Some initial cleanup
 rm(list=ls())
 
-# Set working directory to Thesis file
+# Set working directory to project folder
 setwd("C:\\Users\\User\\Desktop\\project\\data")
 
 # Specify packages required
